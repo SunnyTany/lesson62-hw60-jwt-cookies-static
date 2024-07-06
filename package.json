@@ -1,0 +1,22 @@
+{
+  "name": "hw60",
+  "version": "1.0.0",
+  "description": "Технічне завдання:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
